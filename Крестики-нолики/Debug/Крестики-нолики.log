@@ -1,0 +1,62 @@
+﻿  Source.cpp
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(19,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(19,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(57,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(83,59): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(83,52): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(90,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(90,59): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(103,55): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(103,48): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(135,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Крестики-нолики\Source.cpp(141,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Крестики-нолики.vcxproj -> C:\Users\olga0\OneDrive\Desktop\Крестики-нолики\Debug\Крестики-нолики.exe
