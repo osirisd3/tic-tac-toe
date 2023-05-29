@@ -45,12 +45,12 @@ int main() {
 	RenderWindow window(VideoMode(600, 600), "Tic tac toe");
 
 	Texture f;
-	f.loadFromFile("C:/Users/olga0/OneDrive/Desktop/Paint/fon.png");
+	f.loadFromFile("Paint/fon.png");
 	Sprite fon(f);
 
 
 	Texture c;
-	c.loadFromFile("C:/Users/olga0/OneDrive/Desktop/Paint/crnol.png");
+	c.loadFromFile("Paint/crnol.png");
 	Sprite choice[2];
 	for (int i = 0; i < 2; i++) {
 		choice[i].setTexture(c);
@@ -64,7 +64,7 @@ int main() {
 	int sv = 0;
 
 	Texture l;
-	l.loadFromFile("C:/Users/olga0/OneDrive/Desktop/Paint/line.png");
+	l.loadFromFile("Paint/line.png");
 	Sprite line(l);
 	bool win = false, hotbot = false;
 	bool dumbot = false;
